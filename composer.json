@@ -5,6 +5,7 @@
     "license": "GPL-3.0",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Automattic\\WooCommerce\\Grow\\Tools\\": "src/"
